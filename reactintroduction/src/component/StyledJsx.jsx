@@ -2,7 +2,7 @@ export const StyledJSX = () => {
   return (
     <>
       <div className="container">
-        <p className="title">- CSS Modules -</p>
+        <p className="title">- StyledJSX -</p>
         <button className="button">FIGHT!!</button>
       </div>
       <style jsx="true">{`
